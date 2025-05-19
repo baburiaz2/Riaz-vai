@@ -45,12 +45,3 @@
 	},
 	"AntiStuckAndMemoryLeak": {
 		"AutoRestart": {
-			"Use": true,
-			"Explain": "When this feature is turned on, the system will continuously check and confirm that if memory usage reaches 90%, it will automatically restart to avoid freezing or stopping."
-		},
-		"LogFile": {
-			"Use": false,
-			"Explain": "Record memory usage logs to fix errors. Default location: Horizon_Database/memory.logs"
-		}
-	}
-}
